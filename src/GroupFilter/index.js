@@ -17,4 +17,5 @@ const GroupFilter = ({ initialData = [] }) => {
     )
 }
 
+
 export default GroupFilter;
